@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.orekhov</groupId>
 	<artifactId>office</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>office</name>
 	<description>Airport control tower based on Spring and Kafka</description>
 	<properties>
